@@ -1,0 +1,10 @@
+
+find the sum of a number
+eg. 234= 2+3+4=9.
+
+
+ 1)int sum=0;
+ kisi bhi no mai 0 sum karege to koi fark nhi ata so we take sum=0;
+
+ 2) % => Divide the number and give us the remainder.
+ eg 234 % 10 = 4 is the remainder
